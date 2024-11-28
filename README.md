@@ -1,6 +1,7 @@
 # Phase 1 Project Description
 
-Aviation Data Analysis This project focuses on analyzing aviation accident data to help a company identify the lowest-risk aircraft for their commercial and private operations. The primary objective is to provide actionable insights derived from historical accident trends, severity levels, and aircraft characteristics. These insights will support the company in reducing operational risks and making well-informed decisions when purchasing aircraft.
+Aviation Data Analysis 
+This data focuses on analyzing aviation accident report data to help the company identify the lowest-risk aircraft for their commercial and private operations. The primary objective is to provide actionable insights derived from historical accident trends, severity levels, and aircraft characteristics. These insights will help the company in make well-informed decisions when purchasing aircraft.
 
 Data Cleaning Process Data Collection: The dataset was sourced from the National Transportation Safety Board (NTSB) and is available on Kaggle: Aviation Accident Database.
 
